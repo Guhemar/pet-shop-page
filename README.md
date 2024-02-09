@@ -2,7 +2,7 @@
 
 Projeto de landing page criado para um pet shop fictício.
 
-![clinic-img](C:\Users\gusta\Desktop\PetLife\img\clinic-img.svg)
+![clinic-img](https://github.com/Guhemar/pet-shop-page/blob/main/img/clinic-img.svg)
 
-![logo](C:\Users\gusta\Desktop\PetLife\img\logo.svg)
+![logo](https://github.com/Guhemar/pet-shop-page/blob/main/img/logo.svg)
 
